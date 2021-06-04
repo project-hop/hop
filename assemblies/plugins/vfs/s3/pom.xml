@@ -39,7 +39,7 @@
         <!-- Third-party dependencies -->
         <commons-io.version>1.4</commons-io.version>
         <slf4j-api.version>1.7.7</slf4j-api.version>
-        <guava.version>19.0</guava.version>
+        <guava.version>29.0-jre</guava.version>
 
         <!-- Test dependencies -->
         <mockito.version>1.10.19</mockito.version>
